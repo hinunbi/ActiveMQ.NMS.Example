@@ -1,1 +1,1 @@
-﻿
+# Spring.Net ActiveMQ Messaging Example
